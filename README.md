@@ -1,1 +1,1 @@
-# Privilege-Escalation-Tool
+# Privilege Escalation Scan Tool for Linux
